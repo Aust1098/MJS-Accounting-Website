@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="beast.css">
+<meta name="keywords" content="QuickBooks, QuickBooks Consultant, Certified QuickBooks Consultant, CPA, Accountant, Tax, Tax Preparation, FL, Florida, Tampa, Wesley Chapel, Tampa Bay, Dade City">
+
+<title>MJS Accounting</title>
+</head>
+
+<header>
+<div class = "pagewrap">
+
+
+<div class="navigation-bar">
+
+
+
+<div id="navigation-container">
+
+	  <img class = "head"src="images/Logo 5 MJS.jpg" />
+	  </a>
+	  <a href="https://mjsaccountinggroup.smartvault.com" " target="_blank">
+ <img class = "lock"src = "images/lock.png" a href="https://mjsaccountinggroup.smartvault.com">
+
+ <div class = "client-portal">Client Portal &#10148;</div>
+            </a>
+	
+
+
+      <ul>
+            <li><a href="index.html">Home</a></li>
+
+        <li><a href="about.html">About</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="testimonial.html">Testimonials</a></li>
+		<li><a href="resources.html">Resources</a></li>
+		<li><a href="contactus.html">Contact Us</a></li>
+	
+	
+		
+      </ul>
+	  
+	 
+
+    </div>
+	
+
+	
+
+ 
+</div>
+
+<div class="slide">
+  <img class="mySlides" src="images/tax return.jpg"width="750" height="350"> 
+  <img class="mySlides" src="images/busi.jpg"width="750" height="350" >
+  <img class="mySlides" src="images/luh.jpg"width="750" height="350">
+   <img class="mySlides" src="images/cap.jpg"width="750" height="350">
+
+   
+   
+   <div class = "main">
+<p class ="txt">Every tax return tells a story.
+<p class ="txt">From starting a business...
+<p class ="txt">To falling in love...
+<p class ="txt">The tax man cometh.
+
+</div>
+  </div>
+
+<div class = "border">
+</div>
+
+<script>
+var myIndex = 0;
+change();
+
+
+function change() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(change, 4000); 
+}
+
+var mytxt = 0;
+main();
+
+function main() {
+    var i;
+    var x = document.getElementsByClassName("txt");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    mytxt++;
+    if (mytxt > x.length) {mytxt = 1}    
+    x[mytxt-1].style.display = "block";  
+    setTimeout(main, 4000); 
+}
+
+
+</script>
+
+
+<img class = "okdone" src = "images/nicejob.jpg" width = "980" height = "136" >
+
+
+</div>
+</div>
+<div class = "aic">
+<img class = "logos" src = "images/logosforwebsite.jpg" width = "480" height = "96" >
+
+
+
+</div>
+
+
+
+
+
+  <div class="footer">
+  <p>
+  </br>
+  <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+     <li><a href="services.html">Services</a></li>
+      <li><a href="testimonial.html">Testimonials</a></li>
+		<li><a href="resources.html">Resources</a></li>
+		<li><a href="contactus.html">Contact Us</a></li>
+	
+  </p>
+
+</div>
+		<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
+
+
+
+</body>
+
+
+</div>
+</html>
