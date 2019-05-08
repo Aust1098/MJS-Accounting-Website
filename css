@@ -1,0 +1,705 @@
+.pagewrap{
+  display:inline-block;
+width: 100%;
+margin: 0 auto;
+position: relative;
+}
+
+	
+body{
+	    overflow-y: hidden
+		
+
+}
+body,html{
+	width: 100%;
+
+    margin:0;
+    padding: 0;
+
+  overflow-x: hidden;
+
+}
+table {
+    border: 1px solid black;
+	width: 100%;
+}
+
+.head {
+	   
+	position: relative;
+	top: 20px;
+	left:0px;
+	padding:0px;
+    max-width: 70%;
+	
+    max-height: 60%;
+	float: left;
+
+}
+
+
+#navigation-container {
+	 display:block;
+	margin-left: auto;
+	margin-right: auto;
+  width: 100%;
+  float: left;
+  margin: 0 auto;
+  height: 130px;
+
+}
+
+	
+	
+
+.navigation-bar {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	border-top: 12px solid #afa04c;
+  background-color: white;
+  height: 130px;
+  width: 100%;
+
+  text-align:center;
+   border-bottom: 12px solid #afa04c;
+
+	
+
+}
+
+.navigation-bar ul {
+
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+  position: relative;
+  padding: 30px;
+
+}
+
+
+
+
+.navigation-bar li {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	color:#0d234f;
+  list-style-type: none;
+  padding: 0px;
+  height: 35px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline;
+}
+
+.navigation-bar li a {
+
+	position: relative;
+	    font-weight: bold;
+
+	left:-55px;
+  color: #0d234f;
+  font-size: 15px;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  text-decoration: none;
+
+  padding: 10px;
+  opacity: 0.7;
+}
+  .navigation-bar li a:hover {
+     height:1px;
+  text-decoration: none;
+  width: 70px;
+  background-color: #aecacc;
+  color:#fff;
+}
+
+.lock {
+	position: relative;
+	right:50px;
+  max-width: 125%;
+    max-height: 100%;
+	float: right;
+}
+
+
+
+.client-portal {
+	position: relative;
+	right:55px;
+	padding: 0px;
+  height: 35px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline;
+  float: right;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #133C74;
+  
+}
+    
+.main{
+	text-align: center;
+	font-family: Trebuchet MS;
+	font-size: 30px;
+	color:white;
+	
+	
+}
+
+
+.nadp{
+	
+	position: relative;
+	
+}
+ 
+
+ div.slide{
+	 background-color: #4078a3;
+	   padding: 60px;
+
+ }
+.mySlides {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+background-color: light blue;
+top: -15px;
+ position: relative;
+    text-align: center;
+
+max-width: 125%;
+    max-height: 100%;
+
+-webkit-border-image: -webkit-gradient(linear, left top, left bottom, from(#00abeb), to(#fff), color-stop(0.5, #fff), color-stop(0.5, #66cc00)) 21 30 30 21 repeat repeat;
+
+    border-radius: 7px;
+    padding: 5px;
+
+  
+
+
+}
+
+
+
+.vl {
+	
+	position: absolute;
+    top: 10px;
+    left: 740px;
+    border-left: 1px solid gray;
+    height: 170px;
+	
+}
+
+.v2 {
+	
+	position: absolute;
+    top: 10px;
+    left: 700px;
+    border-left: 1px solid gray;
+    height: 170px;
+	
+}
+
+
+.v3 {
+	
+	position: absolute;
+    top: 10px;
+    left: 960px;
+    border-left: 1px solid gray;
+    height: 170px;
+	
+}
+
+.v4
+{
+
+	
+	position: absolute;
+    top: 150px;
+    left: 500px;
+    border-left: 5px solid black;
+    height: 170px;
+	
+
+}
+
+.boxed {
+
+    box-shadow: 0px 10px 15px gray;
+    top: 40px;
+	  background: linear-gradient(white, gray);
+	position: relative;
+	font-family: Trebuchet MS;
+	color: black;
+	text-align: left;
+	width: 100%;
+	height: 130px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+
+.textwrap{
+	
+}
+.pro
+{
+
+text-align: left;
+    font-size: 20px;
+}
+#value{
+padding-left:10%;
+	position: absolute;
+    top: -30px;
+    font-size: 14px;
+}
+
+.our{
+	padding-left:15%;
+	position: relative;
+    top: -88px;
+    left: 260px;
+    font-size: 20px
+}
+
+#ya{
+	padding-left:15%;
+	position: relative;
+    top: -79px;
+    left: 260px;
+    font-size: 14px
+}
+
+
+
+.always{
+		padding-left:20%;
+
+	position: relative;
+    top: -293px;
+    left: 500px;
+    font-size: 20px
+}
+
+
+
+#there{
+		padding-left:20%;
+
+	position: relative;
+    top: -284px;
+    left: 500px;
+    font-size: 14px;
+}
+
+.contacts
+{
+		padding-left:25%;
+
+	position: relative;
+    top: -414px;
+    left: 680px;
+    font-size: 20px
+	
+}
+
+#contactus{
+		padding-left:25%;
+
+	position: relative;
+    top: -404px;
+    left: 680px;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+input[type=text] {
+	
+    padding: 5px 18px;
+    margin: 1px 0;
+    box-sizing: border-box;
+}
+.form{
+	color: white;
+	border: 0px solid;
+	background:light-blue;
+	position: relative;
+    font-size: 20px;
+    padding: 20px;
+    margin: 35px;
+
+}
+.indexwrap{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.okdone{
+	
+	position: relative;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+.logos
+{
+position: relative;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
+}
+
+ iframe.noScrolling{
+color: white;
+	border: 0px solid;
+background: light-blue;
+position: relative;
+left: -440px;
+top:-730px;
+width: 250px; 
+height: 300px; 
+          
+        }
+		
+.footer {
+   position: relative;
+   text-align: center;
+		bottom: 0px;
+		width: auto;
+		height: 50%;
+	  background: white;
+}
+.footer li{
+	display: inline;
+	color: white;
+	
+}
+.testhead{
+
+position: relative;
+top: 30px;
+text-align: center;
+	font-family: Trebuchet MS;
+	font-size: 25px;
+	color:white;
+	}
+
+
+
+
+
+.firsttest{
+	position: relative;
+ color: black;
+ right: -450px;
+ background-color: white;
+    width: 935px;
+	height: 920px;
+    border: 1px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+.navi{
+	position: relative;
+	left: 0%;
+	
+}
+
+.thirdclass
+{
+	font-family: helvetica;
+	position: relative;
+	top: 30px;
+ color: black;
+ right: -350px;
+ background-color: white;
+    width: 1135px;
+	height: 2820px;
+    padding: 25px;
+    margin: 25px;
+}
+.secondclass{
+margin: 0 auto;
+
+	font-family: helvetica;
+	position: relative;
+	top: 30px;
+ color: black;
+left: 22%;
+ background-color: white;
+    width: 50%;
+	height: 100%;
+    padding: 25px;
+    margin: 25px;
+}
+
+.super{
+
+
+
+	  position: relative;
+
+
+margin: 0 auto;
+
+
+	font-family: helvetica;
+	top: 30px;
+ color: black;
+left: 22%;
+ background-color: white;
+    width: 50%;
+	height: 100%;
+    padding: 25px;
+    margin: 25px;
+}
+	
+}
+
+
+
+.firstpar{
+	
+	top: -940px;
+	left: 800px;
+position: relative;
+	right: px;
+  max-width: 125%;
+    max-height: 100%;
+}
+	.lind{
+		font-size: 35px;
+		color: white;
+	top: -110px;
+position: relative;
+	right:1685px;
+  max-width: 125%;
+    max-height: 100%;
+	float: right;
+	}	
+	
+	.rev{
+		background-color: 	#4682B4;
+	}
+	
+	
+	.serv{
+		position:absolute;
+		margin: auto;
+	background-color:#4078a3;
+	}
+	
+	.abo{
+		
+		height: 100%;
+		position:absolute;
+		margin: auto;
+	background-color:#4078a3;
+	}
+	
+	
+	.conn{
+		
+		
+		position:absolute;
+		margin: auto;
+	background-color:#4078a3;
+	}
+		
+	
+blockquote.test1 {
+	
+    font-family: Georgia, serif;
+  position: relative;
+text-align: center;
+    margin: 0.5em;
+    padding: 0.5em 2em 0.5em 3em;
+}
+
+
+
+blockquote.test1 footer {
+    padding: 0 2em 0 0;
+font-size: 25px;
+    position: relative;
+	left: 230px;
+}
+blockquote.test1 cite:before {
+    content: "\2013";
+}
+
+blockquote.test2 {
+	
+    font-family: Georgia, serif;
+    position: relative;
+text-align: center;
+
+    margin: 0.5em;
+    padding: 0.5em 2em 0.5em 3em;
+}
+
+
+
+blockquote.test2 footer {
+    padding: 0 2em 0 0;
+	top: 7px;
+font-size: 25px;
+    position: relative;
+	left: 230px;
+}
+blockquote.test2 cite:before {
+    content: "\2013";
+}
+blockquote.test3 {
+	
+    font-family: Georgia, serif;
+    position: relative;
+text-align: center;
+
+    margin: 0.5em;
+    padding: 0.5em 2em 0.5em 3em;
+}
+
+
+blockquote.test3 footer {
+    padding: 0 2em 0 0;
+	top: 7px;
+font-size: 25px;
+    position: relative;
+	left: 230px;
+}
+blockquote.test3 cite:before {
+    content: "\2013";
+}
+
+.testbox{
+	text-align: center;
+	    position: relative;
+		height: 100%;
+
+
+margin: 0 auto;
+
+
+	font-family: helvetica;
+	position: relative;
+	top: 30px;
+ color: black;
+left: 22%;
+ background-color: white;
+    width: 50%;
+	height: 100%;
+    padding: 25px;
+    margin: 25px;
+}
+
+.sme
+{
+	
+		text-align: center;
+	    position: relative;
+		height: 100%;
+
+
+margin: 0 auto;
+
+
+	font-family: helvetica;
+	position: relative;
+	top: 30px;
+ color: black;
+left: 22%;
+ background-color: white;
+    width: 50%;
+	height: 100%;
+    padding: 25px;
+    margin: 25px;
+}
+	
+	
+}
+
+.contactpage{
+	font-family: helvetica;
+	position: relative;
+	left: 900px;
+	
+}
+.contactpagetwo{
+	font-family: helvetica;
+	position: relative;
+	
+}
+
+
+.weird {
+	font-family: helvetica;
+	font-size: 20px;
+	position: relative;
+
+}
+
+.firm
+
+{
+		padding-left: 25px;
+
+	position: relative;
+float: right;
+	
+}
+
+.Nadeen
+{
+	padding-right: 25px;
+	position: relative;
+	float: left;
+}
+.firmy
+{
+	
+	position: relative;
+top: 0px;
+text-align: center;
+	font-family: Trebuchet MS;
+	font-size: 25px;
+	color:black;
+}
+	.mem{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+	}
+	.cash{
+		position: relative;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+		
+	}
+	
+	
+	
+	
+	
