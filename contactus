@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="beast.css">
+
+<title>MJS Accounting</title>
+</head>
+
+<header>
+<div class = "pagewrap">
+
+
+<div class="navigation-bar">
+
+
+
+<div id="navigation-container">
+
+      <img class = "head"src="images/Logo 5 MJS.jpg">
+	  <a href="https://mjsaccountinggroup.smartvault.com" " target="_blank">
+ <img class = "lock"src = "images/lock.png">
+
+ <div class = "client-portal">Client Portal &#10148;</div>
+            </a>
+	
+
+
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class = "about" href="about.html">About</a></li>
+	
+
+        <li><a href="services.html">Services</a></li>
+        <li><a href="testimonial.html">Testimonials</a></li>
+		<li><a href="resources.html">Resources</a></li>
+		<li><a href="contactus.html">Contact Us</a></li>
+	
+	
+		
+      </ul>
+	  
+	 
+
+    </div>
+	
+
+	
+
+ 
+</div>
+	<body class = "conn">
+
+<h1 class = "testhead">Contact Us</h1>
+
+<div class = "testbox">	
+ <img class="phonee" src="images/watch.jpg"width="400" height="300">
+
+<p class = "weird">
+Phone: (813)-929-3098</br>
+Fax: (813)-929-3099</br>
+Email: mjsmail@mjsaccountinggroup.com</br>
+Address: 28949 Wesley Chapel Blvd</br>
+Wesley Chapel, Florida 33543
+
+</p>
+
+<div class = "navi">
+
+<div class = "contactpagetwo">
+
+<p> Send an E-mail</p>
+<p><span class="error">* required field</span></p>
+
+<form action="form-email.php" method="post" name="emailform" ">
+
+  *Name:<br>
+  <input type="text" name="name" rows="4" cols = "50">
+  <br>
+  *E-mail:<br>
+  <input type="text" name="email">
+  <br>
+   *Phone:<br>
+  <input type="text" name="phone">
+  <br>
+   Comments:<br>
+  <textarea name="comments" rows="8" cols="27">
+  </textarea>
+</br>
+  <input type="submit" name="submit" value="Submit">
+  </br>
+</form> 
+
+</div>
+ </br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3514.9087566447915!2d-82.33953468440353!3d28.240448982574105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2b1b11c6353fd%3A0x4a2b8a3d61a9200d!2s28949+Wesley+Chapel+Blvd%2C+Wesley+Chapel%2C+FL+33543!5e0!3m2!1sen!2sus!4v1528408091201" 
+width="500" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</div>
+	</div>
+	</body>
+
+
+
+
+
+
+
+
+<div class="footer">
+  <p>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="services.html">Services</a>
+  <a href="testimonial.html">Testimonials</a>
+  <a href="resources.html">Resources</a>
+  <a href="contactus.html">Contact Us</a>
+  </p>
+</div>
+
+</div>
+
+
+
+
+</body>
+</html>
