@@ -1,0 +1,117 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="beast.css">
+
+<title>MJS Accounting</title>
+</head>
+
+<header>
+<div class = "pagewrap">
+
+<div class="navigation-bar">
+
+
+
+<div id="navigation-container">
+
+      <img class = "head"src="images/Logo 5 MJS.jpg">
+	  <a href="https://mjsaccountinggroup.smartvault.com" " target="_blank">
+ <img class = "lock"src = "images/lock.png">
+
+ <div class = "client-portal">Client Portal &#10148;</div>
+            </a>
+	
+
+
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class = "about" href="about.html">About</a></li>
+	
+
+        <li><a href="services.html">Services</a></li>
+        <li><a href="testimonial.html">Testimonials</a></li>
+		<li><a href="resources.html">Resources</a></li>
+		<li><a href="contactus.html">Contact Us</a>
+		                       
+      </ul>
+	  </li>
+	
+	
+		
+      </ul>
+	  
+	 
+
+    </div>
+	
+
+	
+
+ 
+</div>
+
+	<body class = "rev">
+
+	<h1 class = "testhead">About</h1>
+
+<div class = "secondclass">	
+<div class = "navi">
+<h2 class = "firmy">Our Firm</h2>
+<figure>
+<img class = "firm" src = "images/te.jpg" width = "410" height="255">
+
+<figcaption>MJS Accounting group is the premier accounting group in the 
+Tampa Bay Metro Area. For over a decade, we have provided for the accounting 
+needs of all types of businesses and individual clients. From mom and pop 
+businesses to mutli-million dollar corporations, we apply our personal touch 
+to your financial situation. As part of your business team, our primary goal for
+ you is to be successful. We work for you. Our clients return year after year because 
+ we deliver value and recognized results. 
+
+</br></br>
+We take pride in educating and empowering our clients. 
+We recognize that no two people or businesses are alike, and we 
+encourage you to choose services that fit your needs.  We provide 
+accurate, timely information to help you make solid business decisions.
+ We are approachable and available when you need us. 
+
+</br></br>
+We offer tax planning and preparation, monthly bookkeeping and reconciliation, financial statements, weekly payroll processing, accounting software implementation, IRS audit representation and more! 
+
+</br></br>
+Look for our informative webinars which will enlighten you on a variety of topics such as which type of corporation is right for your business  and the advantages of a Roth IRA vs. Traditional IRA.
+
+
+
+ </figcaption>
+ </figure>
+ </br>
+ <h2 class = "firmy">Senior Accountant</h2>
+<figure>
+<img class ="Nadeen" src = "images/NADEEN.jpg" width="210" height="210">
+<figcaption>Nadeen S. Buchalter is the President and CEO of MJS Accounting Group.
+Nadeen graduated from New York University in 1987 with a Bachelor of Science degree in Accounting and Finance.  She worked for over 20 years in the accounting field preparing taxes before founding MJS Accounting Group in 2008.
+ 
+Nadeen has an extensive background in both business and personal tax matters. She is a strong believer in educating her clients and providing unconditional support.  She has taught accounting at the local college as well as to small businesses owners through interactive seminars.
+ 
+Nadeen in an Enrolled Agent and certified QuickBooks Pro Advisor
+She is a member in good standing of the AICPA and FICPA.
+</figcaption>
+</figure>
+
+
+
+
+
+
+ </div>
+</div>
+</div>
+
+
+		<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async></script>
+
+</div>
